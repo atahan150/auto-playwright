@@ -10,7 +10,8 @@
     "noUnusedParameters": false,
     "strict": true,
     "target": "ES2022",
-    "useUnknownInCatchVariables": false
+    "useUnknownInCatchVariables": false,
+    "resolveJsonModule": true
   },
   "include": ["src", "tests"]
 }
